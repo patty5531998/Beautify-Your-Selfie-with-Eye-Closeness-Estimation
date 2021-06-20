@@ -42,15 +42,15 @@ We use a web as a interface to make user can upload their selfies with eye_close
 - Download [shape_predictor_68_face_landmarks.dat](https://drive.google.com/file/d/1EwWj7mFQqtLi_g-ZYHCc0juCWDY5FftJ/view?usp=sharing)
 and uzip in ./
 
-- fill your email@gmail.com in line34 in ./app/views.py:
+- Fill your email@gmail.com in line34 in ./app/views.py:
   ``` bash
 	our_email = 'yourmail@gmail.com'
   ```
-- run the local server:
+- Run the local server:
   ``` bash
 	python manage.py runserver
   ```
-- visit the url that the command line give you
+- Visit the url that the command line give you
 
 (放圖片)
 
