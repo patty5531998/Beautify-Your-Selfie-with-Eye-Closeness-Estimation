@@ -39,8 +39,8 @@ We use a web as a interface to make user can upload their selfies with eye_close
 	$ git clone https://github.com/patty5531998/bys_sce_e_web.git
 	$ cd bys_sce_e_web
 	```
-- Download shape_predictor_68_face_landmarks.dat and put it in ./
-Link: [shape_predictor_68_face_landmarks.dat](https://drive.google.com/file/d/1EwWj7mFQqtLi_g-ZYHCc0juCWDY5FftJ/view?usp=sharing)
+- Download [shape_predictor_68_face_landmarks.dat](https://drive.google.com/file/d/1EwWj7mFQqtLi_g-ZYHCc0juCWDY5FftJ/view?usp=sharing)
+and uzip in ./
 
 - fill your email@gmail.com in line34 in ./app/views.py:
   ``` bash
