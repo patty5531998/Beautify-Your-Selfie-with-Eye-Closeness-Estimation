@@ -1,7 +1,7 @@
 # Beautify Your Selfie with Eye-Closeness Estimation
 
 ## Introduction
-Beautify Your Selfie with Eye-Closeness Estimation is a system that aims to repair your eye_closeness of your selfiie. It contains two part: closed-eye repair algorithmn and web interface. 
+Beautify Your Selfie with Eye-Closeness Estimation is a system that aims to repair your eye_closeness of your selfiie. It contains two parts: closed-eye repair algorithmn and web interface. 
 
 Users who want to make their closed_eye open in their selfie can easily accomplish it through the following steps:
 
@@ -36,7 +36,7 @@ Users who want to make their closed_eye open in their selfie can easily accompli
 	``
 - Download [shape_predictor_68_face_landmarks.dat](https://drive.google.com/file/d/1EwWj7mFQqtLi_g-ZYHCc0juCWDY5FftJ/view?usp=sharing) and put it in ./
 
-- Enabl Gmail API
+- Enable Gmail API
 	1. 根據[Google 官方文件](https://developers.google.com/workspace/guides/create-project)生成OAuth 2.0 用戶端的json檔 
 	2. 將自己加進API的使用者裡
 	3. 將步驟1. 的JSON檔重新命名為credentials.json，放進./
