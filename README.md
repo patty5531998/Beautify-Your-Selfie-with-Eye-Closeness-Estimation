@@ -68,11 +68,11 @@ We use a web as a interface to make user can upload their selfies with eye_close
 ## Results
 
 * Quantitative Analysis
-![](./img/result_1.jpg)
+![](./img/result_1.png)
 
-![](./img/result_2.jpg)
+![](./img/result_2.png)
 
-![](./img/result_3.jpg)
+![](./img/result_3.png)
 * Qualitative Analysis
 
 | Scenes | Repair Rate(%)  |
