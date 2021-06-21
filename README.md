@@ -37,10 +37,13 @@ Users who want to make their closed_eye open in their selfie can easily accompli
 - Download [shape_predictor_68_face_landmarks.dat](https://drive.google.com/file/d/1EwWj7mFQqtLi_g-ZYHCc0juCWDY5FftJ/view?usp=sharing) and put it in ./
 
 - Enable Gmail API
-	1. 根據[Google 官方文件](https://developers.google.com/workspace/guides/create-project)生成OAuth 2.0 用戶端的json檔 
+	1. 根據[Google 官方文件](https://developers.google.com/workspace/guides/create-project)生成OAuth 2.0 用戶端的JSON檔 
 	2. 將自己加進API的使用者裡
-	3. 將步驟1. 的JSON檔重新命名為credentials.json，放進./
-	4. 生成token.pickle
+	  <p>
+ 		<img width = "600" src="./img/addUser.jpg">
+  	  </p>
+	4. 將步驟1. 的JSON檔重新命名為credentials.json，放進./
+	5. 生成token.pickle(需放在./)
   ``` bash
 	python genToken.py
   ```
