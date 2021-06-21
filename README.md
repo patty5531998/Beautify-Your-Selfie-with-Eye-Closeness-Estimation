@@ -32,24 +32,29 @@ We use a web as a interface to make user can upload their selfies with eye_close
 - Gamil API
 - Dlib Python API(Someone calls it API, and someone not)
 
-## Enabling Gmail API
-1. 進入
-
 ## Getting Started
 
 - Clone this project to your local
 	```bash
 	$ git clone https://github.com/patty5531998/bys_sce_e_web.git
 	$ cd bys_sce_e_web
-	```
-- Download shape_predictor_68_face_landmarks.dat and put it in ./
-Link: [[Google Drive]](https://drive.google.com/file/d/1EwWj7mFQqtLi_g-ZYHCc0juCWDY5FftJ/view?usp=sharing)
+	``
+- Download [shape_predictor_68_face_landmarks.dat](https://drive.google.com/file/d/1EwWj7mFQqtLi_g-ZYHCc0juCWDY5FftJ/view?usp=sharing) and put it in ./
 
-- Fill your email to our_email in line34, ./app/views.py:
+- Enabl Gmail API
+	1. 根據[Google 官方文件](https://developers.google.com/workspace/guides/create-project)生成OAuth 2.0 用戶端的json檔 
+	2. 將自己加進API的使用者裡
+	3. 將步驟1. 的JSON檔重新命名為credentials.json，放進./
+	4. 生成token.pickle
+  ``` bash
+	python genToken.py
+  ```
+  
+- Fill your own email address to our_email in line34, ./app/views.py
   ``` bash
 	our_email = 'yourmail@gmail.com'
   ```
-- Run the local server:
+- Run the local server
   ``` bash
 	python manage.py runserver
   ```
@@ -68,16 +73,16 @@ Link: [[Google Drive]](https://drive.google.com/file/d/1EwWj7mFQqtLi_g-ZYHCc0juC
 
 | Scenes | Repair Rate(%)  |
 |:--------:  | :-----:   |
-| with glasses | 100 |
-| with cap | 86.66 |
+| selfie with glasses | 100 |
+| selfie with cap | 86.66 |
 | single person | 86.66 |
 | many people | 93.33 |
-| indoor | 93.33 |
-| outdoor | 93.33 |
-| daytime | 93.33 |
-| night | 86.66 |
+| indoor selfie | 93.33 |
+| outdoor selfie | 93.33 |
+| daytime selfie | 93.33 |
+| night selfie | 86.66 |
 
 ## References
-https://github.com/ultralytics/yolov5">https://github.com/ultralytics/yolov5
-https://github.com/ultralytics/yolov5">https://github.com/ultralytics/yolov5
-https://github.com/ultralytics/yolov5">https://github.com/ultralytics/yolov5
+https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv-python/
+https://medium.com/@lin7lic/python3-django2%E7%B0%A1%E6%98%93%E4%B8%8A%E5%82%B3%E6%AA%94%E6%A1%88%E7%B6%B2%E9%A0%81-4e4e24c556c0
+https://developers.google.com/workspace/guides/create-project
