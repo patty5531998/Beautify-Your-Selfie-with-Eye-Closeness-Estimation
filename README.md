@@ -76,19 +76,12 @@ We use a web as a interface to make user can upload their selfies with eye_close
 * Quantitative Analysis
 
 <p>
- <img width = "300" src="./img/result_1.png">
- <img width = "300" src="./img/result_2.png">
- <img width = "300" src="./img/result_3.png">
- <img width = "300" src="./img/result_4.png">
+ <img width = "600" src="./img/result_1.png">
+ <img width = "600" src="./img/result_2.png">
+ <img width = "600" src="./img/result_3.png">
+ <img width = "600" src="./img/result_4.png">
 </p>
-<!-- 
-![](./img/result_1.png)
 
-![](./img/result_2.png)
-
-![](./img/result_3.png)
-
-![](./img/result_4.png) -->
 * Qualitative Analysis
 
 | Scenes | Repair Rate(%)  |
