@@ -76,7 +76,7 @@ We use a web as a interface to make user can upload their selfies with eye_close
 | selfie with glasses | 100 |
 | selfie with cap | 86.66 |
 | single person | 86.66 |
-| many people | 93.33 |
+| group people | 93.33 |
 | indoor selfie | 93.33 |
 | outdoor selfie | 93.33 |
 | daytime selfie | 93.33 |
