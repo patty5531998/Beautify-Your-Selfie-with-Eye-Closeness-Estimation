@@ -60,19 +60,35 @@ We use a web as a interface to make user can upload their selfies with eye_close
   ```
 - Visit the url that the command line give you
 
-(放圖片)
+<p>
+ <img width = "600" src="./img/website.JPG">
+</p>
+
 
 
 ## Methods
+<p>
+ <img width = "600" src="./img/algorithmn.png">
+</p>
 
 ## Results
 
 * Quantitative Analysis
+
+<p>
+ <img width = "600" src="./img/result_1.png">
+ <img width = "600" src="./img/result_2.png">
+ <img width = "600" src="./img/result_3.png">
+ <img width = "600" src="./img/result_4.png">
+</p>
+<!-- 
 ![](./img/result_1.png)
 
 ![](./img/result_2.png)
 
 ![](./img/result_3.png)
+
+![](./img/result_4.png) -->
 * Qualitative Analysis
 
 | Scenes | Repair Rate(%)  |
