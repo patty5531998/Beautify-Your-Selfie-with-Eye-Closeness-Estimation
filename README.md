@@ -60,12 +60,6 @@ We use a web as a interface to make user can upload their selfies with eye_close
   ```
 - Visit the url that the command line give you
 
-<p>
- <img width = "600" src="./img/website.JPG">
-</p>
-
-
-
 ## Methods
 <p>
  <img width = "600" src="./img/algorithmn.png">
@@ -74,6 +68,9 @@ We use a web as a interface to make user can upload their selfies with eye_close
 ## Results
 
 * Quantitative Analysis
+<p>
+ <img width = "600" src="./img/website.JPG">
+</p>
 
 <p>
  <img width = "600" src="./img/result_1.png">
