@@ -12,6 +12,9 @@ Only six steps, everyone can get a pair of charming eyes in his/her selfie in se
 5. download the repaired selfie attached in email
 6. done
 
+<p>
+ <img width = "600" src="./demo.gif">
+</p>
 ## Prerequisites
 - python == 3.7.4
 - boost == 0.1
