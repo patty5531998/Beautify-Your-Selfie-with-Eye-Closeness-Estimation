@@ -1,14 +1,14 @@
 # Beautify Your Selfie with Eye-Closeness Estimation
 
 ## Introduction
-The selfie is definitely one of the most prominent cultural phenomena of the 21st century. Everyone always wants his/her state perfect in that tiny square. However, even though we try our best to keep everything good when we take a selfie, there is something we can't control. For example, our blinking behavior. This natural behavior usually make our eye closed in selfie, thus we need to take a selfie again and again, which is why we developed Beautify Your Selfie with Eye-Closeness Estimation. It is a system that aims to repair your eye_closeness of your selfiie with eye landmark detection and image fusion. Roughly speaking, it contains two marjor parts: web interface and closed-eye repair algorithmn. Users can use our web interface to upload their selfies with eye_closness and the closed-eye repair algorithmn behind the intereface would repair them after they press the repair button. 
+The selfie is definitely one of the most prominent cultural phenomena of the 21st century. Everyone always wants his/her state perfect in that tiny square. However, even though we try our best to keep everything good when we take a selfie, there is something we can't control. For example, our blinking behavior. This natural behavior usually makes our eye closed in selfies, thus we need to take a selfie again and again, which is why we developed Beautify Your Selfie with Eye-Closeness Estimation. It is a system that aims to repair your eye_closeness of your selfiie with eye landmark detection and image fusion. Roughly speaking, it contains two marjor parts: web interface and closed-eye repair algorithmn. Users can use our web interface to upload their selfies with eye_closness and the closed-eye repair algorithmn behind the intereface would repair them after they press the repair button and our system would send them the repaired selfie by email. 
 
 Only six steps, everyone can get a pair of charming eyes in his/her selfie in seconds.
 
 1. upload three continuous selfies
 2. leave your email address
 3. press the repair button
-4. check your email(the system will automatically send you the  repaired selfie)
+4. check your email(the system will automatically sends you the  repaired selfie)
 5. download the repaired selfie attached in email
 6. done
 
