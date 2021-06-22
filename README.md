@@ -90,7 +90,7 @@ Only six steps, everyone can get a pair of charming eyes in his/her selfie in se
 </p>
 
 <p>
- <img width = "600" src="./img/result_0.jpg">
+ <img width = "600" src="./img/result_0.JPG">
 </p>
 
 
