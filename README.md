@@ -48,6 +48,11 @@ Only six steps, everyone can get a pair of charming eyes in his/her selfie in se
   ``` bash
 	python genToken.py
   ```
+  <p>
+	<img width = "600" src="./img/addUser_1.JPG">
+	<img width = "600" src="./img/addUser_2.JPG">
+	<img width = "600" src="./img/addUser_3.JPG">
+  </p>
   
 - Fill your own email address to our_email in line34, ./app/views.py
   ``` bash
