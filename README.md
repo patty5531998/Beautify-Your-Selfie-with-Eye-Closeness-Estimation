@@ -60,9 +60,9 @@ Only six steps, everyone can get a pair of charming eyes in his/her selfie in se
   ```
   
 - User your own email address to initialize demail in line86, ./app/views.py
-``` bash
-	demail = 'yourmail@gmail.com'
-```
+	``` bash
+		demail = 'yourmail@gmail.com'
+	```
   
 - Run the local server
   ``` bash
