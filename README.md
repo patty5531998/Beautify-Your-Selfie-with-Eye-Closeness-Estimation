@@ -15,6 +15,7 @@ Only six steps, everyone can get a pair of charming eyes in his/her selfie in se
 <p>
  <img width = "600" src="./demo.gif">
 </p>
+
 ## Prerequisites
 - python == 3.7.4
 - boost == 0.1
@@ -89,7 +90,7 @@ Only six steps, everyone can get a pair of charming eyes in his/her selfie in se
 </p>
 
 <p>
- <img width = "600" src="./result.jpg">
+ <img width = "600" src="./result_0.jpg">
 </p>
 
 
