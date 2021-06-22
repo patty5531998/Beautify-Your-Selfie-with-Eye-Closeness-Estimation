@@ -59,16 +59,20 @@ Users who want to make their closed_eye open in their selfie can easily accompli
 - Visit the url that the command line give you
 
 ## Methods
+
 <p>
  <img width = "600" src="./img/algorithmn.png">
 </p>
 
 ## Results
+以下是我們所設計的前端網頁使用者介面，以及使用者使用完此系統，所獲得的修復完畢的照片。
 
-* Quantitative Analysis
 <p>
  <img width = "600" src="./img/website.JPG">
 </p>
+
+以下是我們閉眼修復演算法，針對不同場域拍攝的自拍照修復成效之質化與量化分析。
+* Quantitative Analysis
 
 <p>
  <img width = "600" src="./img/result_1.png">
