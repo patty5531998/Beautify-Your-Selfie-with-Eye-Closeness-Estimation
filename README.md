@@ -88,6 +88,11 @@ Only six steps, everyone can get a pair of charming eyes in his/her selfie in se
  <img width = "600" src="./img/website.JPG">
 </p>
 
+<p>
+ <img width = "600" src="./result.jpg">
+</p>
+
+
 以下是我們閉眼修復演算法，針對不同場域拍攝的自拍照修復成效之質化與量化分析。
 * Quantitative Analysis
 
