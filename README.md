@@ -1,15 +1,16 @@
 # Beautify Your Selfie with Eye-Closeness Estimation
 
 ## Introduction
-Beautify Your Selfie with Eye-Closeness Estimation is a system that aims to repair your eye_closeness of your selfiie. It contains two parts: closed-eye repair algorithmn and web interface. 
+The selfie is definitely one of the most prominent cultural phenomena of the 21st century. Everyone always wants his/her state perfect in that tiny square. However, even though we try our best to keep everything good when we take a selfie, there is something we can't control. For example, our blinking behavior. This natural behavior usually make our eye closed in selfie, thus we need to take a selfie again and again, which is why we developed Beautify Your Selfie with Eye-Closeness Estimation. It is a system that aims to repair your eye_closeness of your selfiie with eye landmark detection and image fusion. Roughly speaking, it contains two marjor parts: web interface and closed-eye repair algorithmn. Users can use our web interface to upload their selfies with eye_closness and the closed-eye repair algorithmn behind the intereface would repair them after they press the repair button. 
 
-Users who want to make their closed_eye open in their selfie can easily accomplish it through the following steps:
+Only six steps, everyone can get a pair of charming eyes in his/her selfie in seconds.
 
 1. upload three continuous selfies
 2. leave your email address
 3. press the repair button
 4. check your email(the system will automatically send you the  repaired selfie)
-5. done
+5. download the repaired selfie attached in email
+6. done
 
 ## Prerequisites
 - python == 3.7.4
@@ -71,7 +72,7 @@ Users who want to make their closed_eye open in their selfie can easily accompli
  <img width = "600" src="./img/website.JPG">
 </p>
 
-以下是我們閉眼修復演算法，針對不同場域拍攝的自拍照修復成效之質化與量化分析。
+- 以下是我們閉眼修復演算法，針對不同場域拍攝的自拍照修復成效之質化與量化分析。
 * Quantitative Analysis
 
 <p>
