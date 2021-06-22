@@ -98,7 +98,7 @@ Only six steps, everyone can get a pair of charming eyes in his/her selfie in se
 * Quantitative Analysis
 
 <p>
- <img width = "600" src="./img/result_1.jpg">
+ <img width = "600" src="./img/result_1.png">
  <img width = "600" src="./img/result_2.png">
  <img width = "600" src="./img/result_3.png">
  <img width = "600" src="./img/result_4.png">
