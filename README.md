@@ -47,7 +47,7 @@ Only six steps, everyone can get a pair of charming eyes in his/her selfie in se
 	  <p>
  		<img width = "600" src="./img/addUser.jpg">
   	  </p>
-	4. 將步驟1. 的JSON檔重新命名為credentials.json，放進./
+	4. 將步驟i. 的JSON檔重新命名為credentials.json，放進./
 	5. 生成token.pickle(需放在./)
   ``` bash
 	python genToken.py
